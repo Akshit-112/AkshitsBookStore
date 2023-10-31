@@ -96,3 +96,16 @@ Ran project, output is as same as PPT.
 0053
 Copied _ViewImports.cshtml and _ViewStart.cshtml to Customer Area
 Modified _ViewStart.cshtml by changing path
+Checked output , working perfectly
+
+0105
+Added new area named Admin to Areas
+Added View files in views folder 
+Deleted Data and Models folders in that
+
+0110
+Deleted Controller folder from AkshitsBookStore project
+Tested Application, ran perfectly
+
+0125
+Updated README.md
