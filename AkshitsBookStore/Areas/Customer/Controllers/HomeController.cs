@@ -9,7 +9,8 @@ using System.Linq;
 using System.Threading.Tasks;
 
 namespace AkshitsBookStore.Controllers
-{
+{       
+    [Area("Customer")]
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;

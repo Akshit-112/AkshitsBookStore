@@ -79,3 +79,20 @@ Tested application, ran successfully.
 Added Class in AkshitsBooks.Utility
 Added Project References to Main project AkshitsBookStore
 Added Project References to AkshitsBooks.DataAccess with another two projects
+
+0036
+Added new Area named Customer to Areas
+Modified startup.cs as described in ScaffoldingReadMe.txt
+
+0040
+Moved HomeController.cs to Areas/Customer/Controllers folder
+Deleted Data and Models folders of that folder
+
+0044
+Edited HomeController.cs 
+Moved Home to Views inside Customer
+Ran project, output is as same as PPT.
+
+0053
+Copied _ViewImports.cshtml and _ViewStart.cshtml to Customer Area
+Modified _ViewStart.cshtml by changing path
