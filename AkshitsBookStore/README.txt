@@ -52,3 +52,14 @@ Deleted Migration Folder
 
 2329
 Installed Identity.EntityFrameworkCore Package
+
+2332
+Deleted Class1.cs from all projects
+
+2349
+Got too many errors
+Changed namespace in ApplicationDbContext.cs 
+Solved error of IdentityDbContext by installing another version of Installed Identity.EntityFrameworkCore Package 
+Built project after solving all errors, Built successfully
+
+
