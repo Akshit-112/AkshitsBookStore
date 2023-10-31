@@ -26,3 +26,10 @@ Replaced Site.css styles  with provided styles.
 In _Layout.cshtml , Attached bootstrap.css, modified nav classes from navbar-light to navbar-dark and bg-white to bg-primary
 Removed text-dark from a elements
 Added text-white-50 bg-primary properties to footer classes 
+
+2305
+Removed text-dark from _LoginPartial.cshtml
+Ran project and output was perfct.
+
+2309
+Added Provided styles and scripts in _Layout.cshtml , from CSS_JS file.
