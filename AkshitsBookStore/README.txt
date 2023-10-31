@@ -36,3 +36,19 @@ Added Provided styles and scripts in _Layout.cshtml , from CSS_JS file.
 
 2314
 Added Dropdown menu next to privacy , in _Layout.cshtml
+
+2319
+Created 3 new projects using .net core class library
+AkshitsBooks.DataAccess
+AkshitsBooks.Models
+AkshitsBooks.Utility
+Copied Data folder to AkshitsBooks.DataAccess and deleted original
+
+2323
+Installed Microsoft.EntityFrameworkCore.Relational and Core.SqlServer packages
+
+2327
+Deleted Migration Folder
+
+2329
+Installed Identity.EntityFrameworkCore Package
