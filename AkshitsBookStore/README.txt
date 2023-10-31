@@ -62,4 +62,15 @@ Changed namespace in ApplicationDbContext.cs
 Solved error of IdentityDbContext by installing another version of Installed Identity.EntityFrameworkCore Package 
 Built project after solving all errors, Built successfully
 
+Date : 2023-10-31 
+0003
+Moved Models folder to AkshitsBooks.Models
+Added Project Refrences to DataAccess and Models project
 
+0006
+Renamed Models folder to ViewModels
+Changed Namespace in ErrorViewModel.cs
+
+0017
+Added project reference to Model
+Tested application, ran successfully.
