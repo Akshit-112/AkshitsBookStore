@@ -33,3 +33,6 @@ Ran project and output was perfct.
 
 2309
 Added Provided styles and scripts in _Layout.cshtml , from CSS_JS file.
+
+2314
+Added Dropdown menu next to privacy , in _Layout.cshtml
