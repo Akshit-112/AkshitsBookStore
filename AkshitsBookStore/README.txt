@@ -74,3 +74,8 @@ Changed Namespace in ErrorViewModel.cs
 0017
 Added project reference to Model
 Tested application, ran successfully.
+
+0022
+Added Class in AkshitsBooks.Utility
+Added Project References to Main project AkshitsBookStore
+Added Project References to AkshitsBooks.DataAccess with another two projects
