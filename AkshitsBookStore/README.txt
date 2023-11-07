@@ -132,3 +132,22 @@ Added new migration 20231107005302_AddCategoryToDb.cs
 Modified ApplicationDbContext.cs 
 Re-ran the Migration by changing name to 20231107005302_AddCategoryToDbAgain.cs
 Updated Database
+
+1958
+Created new folder named Repository in .DataAccess project
+Created IRepository in that folder.
+
+2000
+Created IRepository interface in IRepository folder
+Added CRUD methods in it
+
+2003
+Added class in Repository folder and implemented interfaces in it
+
+2015
+Added new class CategoryRepository.cs in Repository folder
+Added new Interface ICategoryRepository.cs in IRepository folder
+
+2019
+Added Remaining code in CategoryRepository.cs 
+Solved errors by adding using statements
