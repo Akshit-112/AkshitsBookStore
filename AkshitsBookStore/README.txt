@@ -183,3 +183,14 @@ Created Index.cshtml in Category Folder and added code from provided files
 Modified _Layout.cshtml by changing navigation
 Ran Application, Category is there
 
+2110
+Created category.js in wwwroot/js
+Modified Index.cshtml and added @section call
+
+2117
+Added IActionResult to CategoryController.cs
+Created Upsert.cshtml
+
+2123
+Added 2 partial views 
+_CreateAndBackToListButton and _EditAndBackToListButton
