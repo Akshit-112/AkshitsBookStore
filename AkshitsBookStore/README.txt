@@ -169,4 +169,17 @@ made sure that public class implements the interface - UnitOfWork : IUnitOfWork
 Modified both files and added using statements
 Added " services.AddScoped<IUnitOfWork, UnitOfWork>(); " in Startup.cs
 
+2049
+Added new folder Controllers in Admin Area.
+Added new controller CategoryController.cs in Admin Area.
+
+2056
+Added new Category View in Admin Area
+
+2058
+Created Index.cshtml in Category Folder and added code from provided files
+
+2102
+Modified _Layout.cshtml by changing navigation
+Ran Application, Category is there
 
