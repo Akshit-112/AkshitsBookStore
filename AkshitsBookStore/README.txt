@@ -194,3 +194,13 @@ Created Upsert.cshtml
 2123
 Added 2 partial views 
 _CreateAndBackToListButton and _EditAndBackToListButton
+
+2127
+Modified Upsert.cshtml and Index.cshtml by adding navigation to category
+Added httppost method in CategoryController.cs
+
+2141
+Added httpdelete in CategoryController.cs
+Updated category.cs file
+Added Delete function code
+Tested Application , worked perfectly
