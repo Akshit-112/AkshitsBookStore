@@ -123,3 +123,12 @@ Added Migrations In .DataAccess 20231107003624_AddDefaultIdentityMigration.cs
 
 1940
 Reviewed SQL server and new tables
+
+1948
+Created Category class in .Models project and modified code 
+Added new migration 20231107005302_AddCategoryToDb.cs
+
+1953
+Modified ApplicationDbContext.cs 
+Re-ran the Migration by changing name to 20231107005302_AddCategoryToDbAgain.cs
+Updated Database
