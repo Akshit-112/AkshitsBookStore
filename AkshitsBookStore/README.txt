@@ -151,3 +151,22 @@ Added new Interface ICategoryRepository.cs in IRepository folder
 2019
 Added Remaining code in CategoryRepository.cs 
 Solved errors by adding using statements
+
+2027
+Added ISP_Call.cs and added code in that
+Installed dapper package 
+added remaining code
+
+2036
+Added new class SP_Call.cs and added connections via using statements in it
+
+2038
+Added new Interface IUnitOfWork
+Added new class UnitOfWork
+
+2043
+made sure that public class implements the interface - UnitOfWork : IUnitOfWork
+Modified both files and added using statements
+Added " services.AddScoped<IUnitOfWork, UnitOfWork>(); " in Startup.cs
+
+

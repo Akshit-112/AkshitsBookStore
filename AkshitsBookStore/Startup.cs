@@ -1,3 +1,5 @@
+using AkshitsBooks.DataAccess.Repository;
+using AkshitsBooks.DataAccess.Repository.IRepository;
 using AkshitsBookStore;
 using AkshitsBookStore.DataAccess.Data;
 using Microsoft.AspNetCore.Builder;
@@ -35,6 +37,7 @@ namespace AkshitsBookStore
 
             services.AddDefaultIdentity<IdentityUser>(/*options => options.SignIn.RequireConfirmedAccount = true*/)
                 .AddEntityFrameworkStores<ApplicationDbContext>();
+            services.AddScoped<IUnitOfWork, UnitOfWork>();
             services.AddControllersWithViews();
         }
 
