@@ -98,7 +98,7 @@ Copied _ViewImports.cshtml and _ViewStart.cshtml to Customer Area
 Modified _ViewStart.cshtml by changing path
 Checked output , working perfectly
 
-0105
+0105 
 Added new area named Admin to Areas
 Added View files in views folder 
 Deleted Data and Models folders in that
@@ -109,3 +109,17 @@ Tested Application, ran perfectly
 
 0125
 Updated README.md
+
+
+2023-11-06
+1928
+
+Started Part - 2
+Built new solution 
+Modified Appsettings.json
+
+1939
+Added Migrations In .DataAccess 20231107003624_AddDefaultIdentityMigration.cs 
+
+1940
+Reviewed SQL server and new tables
