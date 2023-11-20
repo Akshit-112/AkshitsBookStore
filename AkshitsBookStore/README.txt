@@ -225,3 +225,14 @@ Added CoverType to UnitOfWork and IUnitOfWork
 0812
 Added new migration 20231120131143_AddedNewCoverType.cs to .DataAccess project and updated the database
 
+0816
+Added CoverType to navbar through _Layout.cshtml
+
+0819
+Added CoverTypeController.cs and neccessry code in it
+
+0823
+Created Index.cshtml and Upsert.cshtml in Covertype view.
+
+0826
+Created coverType.js in wwwroot>js folder.
