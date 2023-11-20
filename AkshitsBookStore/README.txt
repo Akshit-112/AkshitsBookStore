@@ -258,6 +258,21 @@ Added ProductRepository class to Repository and IProductRepository interface to 
 
 0900 
 Added Product to UnitOfWork and IUnitOfWork
+tested application, ran perfectly
+
+0905
+Started Part-III Section - 2
+Added Product view to navbar
+
+0910
+Created new Product Controller and added code in it
+
+0913
+Added new ViewModel ProductVM in .Models Project.
+Installed MicrosoftAspNetCore.Mvc.ViewFeatures package
+
+0918
+Commented out Upsert post method in Product Controller
 
 
 
