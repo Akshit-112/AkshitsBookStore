@@ -212,3 +212,16 @@ Opened project and Started Part-III of project
 
 0742 
 Created CoverType.cs in .Models folder 
+
+0751
+Created CoverTypeRepository.cs class in Repository , created ICoverTypeRepository.cs interface in IRepository of .DataAccess project
+
+0804
+Implemented CoverType in ApplicationDbContext.cs file.
+
+0807
+Added CoverType to UnitOfWork and IUnitOfWork
+
+0812
+Added new migration 20231120131143_AddedNewCoverType.cs to .DataAccess project and updated the database
+
