@@ -248,7 +248,16 @@ Added Product class reference to ApplicationDbContext.cs
 Added new migration 20231120133650_addProductToDb.cs to .DataAccess project and updated database
 
 0845
-Reviewed SOE and checked Product table in it, those 3 columns it has requiered field already.
+Reviewed SOE and checked Product table in it, those 3 columns it has requiered field already
 
 0848
 Added new migration 20231120134810_addValidationToProduct.cs 
+
+0856
+Added ProductRepository class to Repository and IProductRepository interface to IRepository folder
+
+0900 
+Added Product to UnitOfWork and IUnitOfWork
+
+
+
