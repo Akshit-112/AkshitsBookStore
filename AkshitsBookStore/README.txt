@@ -274,5 +274,13 @@ Installed MicrosoftAspNetCore.Mvc.ViewFeatures package
 0918
 Commented out Upsert post method in Product Controller
 
+0922
+Added View to Product by creating Index.cshtml in Product 
+
+0925
+Copied code from category.js and pasted to product.js with renaming it 
+
+0930
+Tested Application , Working perfectly. Completed Section-2 
 
 
