@@ -232,7 +232,23 @@ Added CoverType to navbar through _Layout.cshtml
 Added CoverTypeController.cs and neccessry code in it
 
 0823
-Created Index.cshtml and Upsert.cshtml in Covertype view.
+Created Index.cshtml and Upsert.cshtml in Covertype view
 
 0826
-Created coverType.js in wwwroot>js folder.
+Created coverType.js in wwwroot>js folder
+
+0832
+Added new Product class in .Models Project
+Solved some errors by adding using statements
+
+0833
+Added Product class reference to ApplicationDbContext.cs
+
+0836
+Added new migration 20231120133650_addProductToDb.cs to .DataAccess project and updated database
+
+0845
+Reviewed SOE and checked Product table in it, those 3 columns it has requiered field already.
+
+0848
+Added new migration 20231120134810_addValidationToProduct.cs 
