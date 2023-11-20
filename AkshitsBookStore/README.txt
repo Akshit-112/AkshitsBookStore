@@ -204,3 +204,11 @@ Added httpdelete in CategoryController.cs
 Updated category.cs file
 Added Delete function code
 Tested Application , worked perfectly
+
+20-11-2023
+
+0739
+Opened project and Started Part-III of project 
+
+0742 
+Created CoverType.cs in .Models folder 
