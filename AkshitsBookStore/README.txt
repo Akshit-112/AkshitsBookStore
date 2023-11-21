@@ -283,4 +283,27 @@ Copied code from category.js and pasted to product.js with renaming it
 0930
 Tested Application , Working perfectly. Completed Section-2 
 
+2330
+Started Section-3 of project
+
+2332
+Created Upsert.cshtml in Product view, Added given code.
+
+2335
+Created account on tiny.cloud and copied script code from there, added it to Upsert.cshtml
+
+2337
+Added other required script to Upsert.cshtml
+
+2339
+Uncommented Upsert post method from ProductController.cs file and added  Httppost method in it
+
+2348
+Built Project, Ran successfully, it is showing expected output
+Completed Assignment-2 Part-3 Section-2.
+
+
+
+
+
 
