@@ -312,3 +312,21 @@ updated productcontroller by adding API calls
 1622
 Modified CoverTypeId foreign key in Product.cs and ran migration 20231127210616_updatedForeignkey.cs and updated database
 
+1742
+Started Part-4 , updated httppost method and http delete method in productcontroller
+
+1747
+Added if statement in Upsert.cshtml to display image
+
+1755
+Added reference of IUnitOfWork and Product to Homecontroller.cs
+
+1801
+Added services.AddControllersWithViews().AddRazorRuntimeCompilation();  into startup.cs
+
+1804
+Modified column names in product.js 
+
+1806
+Tested Application by adding images , ran successfully.
+Part-4 Completed
