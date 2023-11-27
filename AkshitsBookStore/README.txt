@@ -302,8 +302,13 @@ Uncommented Upsert post method from ProductController.cs file and added  Httppos
 Built Project, Ran successfully, it is showing expected output
 Completed Assignment-2 Part-3 Section-2.
 
+2023-11-27
+1610
+Added subfolder in wwwroot folder 
 
+1614
+updated productcontroller by adding API calls
 
-
-
+1622
+Modified CoverTypeId foreign key in Product.cs and ran migration 20231127210616_updatedForeignkey.cs and updated database
 

@@ -96,6 +96,6 @@ namespace AkshitsBookStore.Areas.Admin.Controllers
             _unitOfWork.Save();
             return Json(new { success = true, message = "Delete Successful" });
         }
-        #endregion
+#endregion
     }
 }
