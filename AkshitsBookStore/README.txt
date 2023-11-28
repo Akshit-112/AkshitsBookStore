@@ -330,3 +330,6 @@ Modified column names in product.js
 1806
 Tested Application by adding images , ran successfully.
 Part-4 Completed
+
+2300
+Modified Index View of customer area to show book catalogue accurately, tested app, now working good
