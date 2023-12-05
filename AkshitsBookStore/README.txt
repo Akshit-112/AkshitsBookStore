@@ -333,3 +333,7 @@ Part-4 Completed
 
 2300
 Modified Index View of customer area to show book catalogue accurately, tested app, now working good
+
+04-12-2023
+2334
+Cloned repository to add 3 book products' images, removed old images and added 3 new posters to check
